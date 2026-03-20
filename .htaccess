@@ -1,0 +1,3 @@
+<Files "password_store.json">
+  Require all denied
+</Files>
